@@ -1,0 +1,8 @@
+*{padding: 0; margin: 0;}
+
+body{background: #FFFFFF; font-family: arial;}
+header{background: #F2B195; width: 1300px; margin: auto; padding: 10px}
+menu{background: #FFE6CD; width: 500px; margin: auto; padding: 10px}
+menu a{color:aquamarine; text-decoration: none; margin: auto; padding: 10px}
+article{background: #EFEDE7; width: 800px; margin: auto; padding: 10px}
+footer{background: #fcf5c7; width: 500px; margin: auto; padding: 10px}
